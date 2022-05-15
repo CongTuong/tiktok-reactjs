@@ -11,7 +11,7 @@ In the project directory, you can run:
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### Libary used in project
-
+```
 - customize-cra https://github.com/arackaf/customize-cra
 - babel-plugin-module-resolver https://github.com/tleunen/babel-plugin-module-resolver
-
+```
