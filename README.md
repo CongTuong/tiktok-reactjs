@@ -8,7 +8,11 @@ In the project directory, you can run:
 
 ### Run
 ```
-yarn start  or npm start
+yarn start
+```
+### Or
+```
+npm start
 ```
 
 ### Libary used in project
