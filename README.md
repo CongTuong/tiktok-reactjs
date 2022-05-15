@@ -45,9 +45,10 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+### Lib used in project
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- customize-cra https://github.com/arackaf/customize-cra
+- babel-plugin-module-resolver https://github.com/tleunen/babel-plugin-module-resolver
 
 ### Analyzing the Bundle Size
 
